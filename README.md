@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Lova</h1>
+<h3 align="center">Front End Developer</h3>
 
-<!--
-**LovaArutinovi/LovaArutinovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Luka = {
+    aboutMe: "ERROR 505",
+    hobby: "Learning",
+    age: 20,
+    technologies:  ["React", "Next", "HTML", "CSS", "SCSS", "SASS", "LESS", "JS", "Jquery", "Gulp"]
+};
+```
+
+# 📊 Github stats
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukatchubabria&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=161b22&locale=en&layout=compact" alt="lukatchubabria" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukatchubabria&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=161b22&locale=en" alt="lukatchubabria" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukatchubabria&theme=dark" alt="lukatchubabria" /></p>
+</details>
