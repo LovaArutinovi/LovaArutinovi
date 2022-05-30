@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lova</h1>
+<h1 align="center">Hi 👋, I'm Lova ♐</h1>
 <h3 align="center">Front End Developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovaarutinovi&ma&row=2&column=3" alt="lovaarutinovi" /></a> </p>
