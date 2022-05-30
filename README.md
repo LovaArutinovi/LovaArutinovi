@@ -16,7 +16,7 @@ const Lova = {
 # 📊 Github stats
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukatchubabria&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=161b22&locale=en&layout=compact" alt="lukatchubabria" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukatchubabria&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=161b22&locale=en" alt="lukatchubabria" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukatchubabria&theme=dark" alt="lukatchubabria" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lovaarutinovi&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=161b22&locale=en&layout=compact" alt="lovaarutinovi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lovaarutinovi&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=161b22&locale=en" alt="lovaarutinovi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovaarutinovi&theme=dark" alt="lovaarutinovi" /></p>
 </details>
