@@ -5,7 +5,7 @@
 
 
 ```javascript
-const Luka = {
+const Lova = {
     aboutMe: "ERROR 505",
     hobby: "Learning",
     age: 20,
